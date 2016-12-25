@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2172790630">
+    <data-source source="LOCAL" name="MySQL - phonebook@localhost" uuid="b55fedac-d2cb-4c35-828d-ad4f1e3ec936">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/phonebook</jdbc-url>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+        <property name="User" value="root" />
+        <property name="Password" value="root" />
+        <property name="ServerName" value="localhost" />
+        <property name="databaseName" value="persons" />
+        <property name="Url" value="jdbc:mysql://localhost:3306/persons" />
+        <property name="URL" value="jdbc:mysql://localhost:3306/persons" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - sampledb@localhost" uuid="029c8d0f-c493-4e3c-80a2-557fd054eea5">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/sampledb</jdbc-url>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+        <property name="User" value="root" />
+        <property name="Password" value="root" />
+        <property name="ServerName" value="localhost" />
+        <property name="databaseName" value="persons" />
+        <property name="Url" value="jdbc:mysql://localhost:3306/persons" />
+        <property name="URL" value="jdbc:mysql://localhost:3306/persons" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

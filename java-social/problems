@@ -1,0 +1,1 @@
+1. Настроить правильно артифакты. Файл persistence.xml должен находится в каталоге WEB-INF/classes/META-INF в targer в war-файле.
